@@ -1,0 +1,13 @@
+Para baixar um repositorio do github:
+
+Entrar na pasta desejada para salvar o projeto pelo git bash
+
+comando: git clone (link fornecido pelo github)
+
+Após fazer as mudanças, subir as alterações:
+
+git add .
+
+git commit -m "comentario a respeito das mudanças feitas"
+
+git push orgin main
