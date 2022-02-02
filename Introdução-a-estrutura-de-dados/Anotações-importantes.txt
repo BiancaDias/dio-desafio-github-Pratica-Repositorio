@@ -1,0 +1,8 @@
+Algoritmos
+
+Em uma estrutura de dados devemos saber como realiza um determinado conjunto de operações basicas como, por ex:
+-inserir dados
+-excluir dados
+-localizar elementos
+-percorrer listas
+-classificar, colocar e ordem
